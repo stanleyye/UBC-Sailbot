@@ -161,7 +161,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Sailbot_Unit_Test.cpp" />
+    <ClCompile Include="SailbotUnitTest.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UBC_Sailbot\UBC_Sailbot.vcxproj">
